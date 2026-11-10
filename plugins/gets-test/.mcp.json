@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gets-test": {
+      "type": "http",
+      "url": "https://dev.dard.me/mcp"
+    }
+  }
+}

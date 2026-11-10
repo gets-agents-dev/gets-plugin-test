@@ -1,0 +1,14 @@
+{
+  "name": "gets-plugin-test",
+  "description": "Плагин gets для Claude",
+  "owner": {
+    "name": "gets-agents-dev"
+  },
+  "plugins": [
+    {
+      "name": "gets-test",
+      "source": "./plugins/gets-test",
+      "description": "gets: Claude работает с вашим Рабочим столом — агенты, база, файлы. Вход через gets, ключи не нужны."
+    }
+  ]
+}
